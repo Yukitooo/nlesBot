@@ -28,3 +28,18 @@ Bot: "Be kind and compassionate to one another, forgiving each other, just as in
 
 User: What’s the weather today?
 Bot: 🙏 I'm here only to help with Bible questions. Please feel free to ask about scripture.
+
+## 📸 Screenshots
+
+### ✅ AI Responds to Bible Questions
+![Accepted Question](screenshots/ai1.jpg)
+
+### ❌ AI Ignores Non-Bible Questions
+![Rejected Question](screenshots/ai2.jpg)
+
+### 📖 Random Bible Verses
+Here are some examples of the Bible.com verse generator in action:
+
+![Verse Example](screenshots/verse.jpg)
+![Random Verse 1](screenshots/random1.jpg)
+![Random Verse 2](screenshots/random2.jpg)
