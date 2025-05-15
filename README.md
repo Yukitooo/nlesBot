@@ -28,7 +28,7 @@ Bot: "Be kind and compassionate to one another, forgiving each other, just as in
 
 User: What’s the weather today?
 Bot: 🙏 I'm here only to help with Bible questions. Please feel free to ask about scripture.
-
+```
 ## 📸 Screenshots
 
 ### ✅ AI Responds to Bible Questions
